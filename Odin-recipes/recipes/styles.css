@@ -1,0 +1,28 @@
+body{
+  background-color:lightgrey;
+  text-align: center;
+}
+.image{
+  padding:10px;
+  outline:5px solid brown;
+  margin: 10px;
+}
+
+.title{
+  padding: 10px;
+  color:brown;
+  font-size:50px;
+}
+ul, ol{
+  display: inline-block;
+  text-align: left;
+}
+.link{
+  text-decoration: none;
+  color:#994C00;
+  font-size:20px;
+}
+.link:hover{
+  color:#331900;
+ 
+}
